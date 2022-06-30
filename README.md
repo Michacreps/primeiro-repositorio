@@ -1,4 +1,4 @@
-# primeiro-repositorio
+# Primeiro-Repositorio
 
 Desafio para DIO.<br>
 Meu primeiro repositório apenas para fins experimentais.
